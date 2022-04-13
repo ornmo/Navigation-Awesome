@@ -1,7 +1,11 @@
-This project is 
+This project is an unique navigation
 
-It uses 
+It uses css and js to call in the navigation from the hamburger menu one at a time.
 
 It can be used as an example of 
 
-- 
+- funky navigation
+
+It uses the DRY methodology and creates code that is as compact as possible
+
+On clicking each navigation section the page that the User is brought to is also the same background colour as the navigation option.
